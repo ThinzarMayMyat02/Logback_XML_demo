@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-1.8.0-openjdk"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Spring5/logback_jar_files/logback-classic-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Spring5/logback_jar_files/logback-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Spring5/logback_jar_files/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
